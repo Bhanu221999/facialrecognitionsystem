@@ -99,6 +99,9 @@ The system has been tested under various conditions to ensure accuracy and perfo
 | Searching the visitor with his id | Selecting the id | The visitor will be visible after giving valid id. |
 | Identifying multiple people at a time | Capturing the images through live camera | Two or more people should be detected with their name at a time. |
 
+<img width="590" alt="Screenshot 2025-02-17 at 11 41 56 AM" src="https://github.com/user-attachments/assets/bc122d4a-195c-4f6c-93f8-0fddc724a59b" />
+
+
 
 ## References
 
